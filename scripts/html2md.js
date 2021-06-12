@@ -51,6 +51,11 @@ Orf-1-Klein.png
   content = content.replace(/!\[\]\(files\/\d+\/\d+\/(Orf-2-zentriert\.png)\)/g, '![](images/$1.webp)'); // 2-12-persoenliche-erfahrungsberichte-2.md
   content = content.replace(/!\[\]\(files\/\d+\/\d+\/(Orf-1-Klein\.png)\)/g, '![](images/$1.webp)'); // 3-1-2-erzwingungshaft-2.md
 
+  // files
+  content = content.replace(/]\(files\/\d+\/\d+\/(Von_uns_bekommt_ihr_nix\.pdf)\)/g, '](files/$1)'); // startseite.md
+  var s = '[PDF runter laden](files/Von_uns_bekommt_ihr_nix.pdf)';
+  content = content.replace(s, `[//]: # ( ${s} )`); // startseite.md
+
   content = content.replace(/!\[\]\((files\/\d+\/\d+\/([^ \/]+).png)\)/g, '\n\n[//]: # ($2)\n[//]: # ($1)\n');
 
   //const slug = (page.slug == 'startseite') ? 'README' : page.slug;
