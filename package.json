@@ -1,0 +1,13 @@
+{
+  "name": "von-uns-bekommt-ihr-nix",
+  "version": "0.0.1",
+  "keywords": [
+    "verweigerung",
+    "justiz",
+    "deutschland"
+  ],
+  "license": "CC0-1.0",
+  "dependencies": {
+    "turndown": "*"
+  }
+}

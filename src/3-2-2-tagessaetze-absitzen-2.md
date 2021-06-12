@@ -1,0 +1,23 @@
+# 3.2.2. Tagessätze absitzen
+
+
+
+[//]: # (3.2.2.-Tagessätze-absitzen)
+[//]: # (files/2019/05/3.2.2.-Tagessätze-absitzen.png)
+  
+Wenn ihr eure Tagessätze nicht zahlt oder abarbeitet und eine Pfändung der Strafe bei euch als sinnlos erachtet wird oder nicht geklappt hat, kommt es irgendwann dazu, dass ihr ein Haftantrittsschreiben bekommt (§ 27 StVollstrO). Da steht dann drinnen, wann ihr Haftantritt habt und wo und noch n paar Infos zum Knast. Wenn ihr während der Haftantrittszeit nicht dort aufgekreuzt seid, wird ein offener Haftbefehl gegen euch erlassen (§ 33 StVollstrO). Das führt dazu, dass die Bullen bei eurer Meldeadresse vorbei schauen und versuchen werden euch zu verhaften. Auch werden die euch bei Personalienkontrollen etc. gleich mitnehmen wollen. Für die Dauer der Haftstrafe gilt: Anzahl der Tagessätze = Anzahl der Tage im Knast (§ 43 StGB). Dabei handelt es sich um Ersatzhaft. Heißt, nachdem ihr die Tagessätze abgesessen habt, gelten sie als beglichen.  
+Ihr könnt aber auch nur einen Teil der Tagessätze bezahlen (Münchner Kommentar StGB § 43 Rn. 13 ). In unserem Beispiel mit den 20 Tagessätzen à 40€ könnt ihr beispielsweise 10 Tage in den Knast gehen und euch dann entscheiden, dass ihr da keinen Bock mehr drauf habt und die restlichen 400€ (10 Tagessätze) bezahlen.  
+Aber auch da gibt’s noch Möglichkeiten aus den 10 Tagessätzen weniger zu machen.
+
+*   Der 1 Cent Trick  
+    Wenn ein Tagessatz angezahlt ist, darf er nicht mehr (durch Haft oder Abarbeiten) vollstreckt werden (§ 459e III StPO). Heißt: Wir bezahlen 10 Tagessätze + 1 Cent (in unserem Beispiel 400,01€). Damit sind 10 Tagessätze voll bezahlt und einer wurde angezahlt. Insgesamt sind damit 11 Tagessätze nicht mehr in Ersatzhaft umwandelbar. Aus den 10 Tagen Haft wurden dadurch nur noch 9.  
+    Auch wenn ihr nicht in den Knast wollt, könnt ihr einfach den letzten Tagessatz mit einem Cent anzahlen: Damit ist der nicht mehr in Ersatzhaft umwandelbar und ihr habt dem Staat einen Tagessatz geklaut.  
+    Achtung: Wenn ihr Menschen aus dem Knast freikauft, weil die raus wollen, geht das theoretisch natürlich auch mit diesem Trick. Die Knastzahlstellen wissen davon aber oft nichts, das kann also zu längeren Debatten führen: Mit dem Strafvollzugsgesetz und der StPO wedeln und mit einer Anzeige wegen Freiheitsberaubung drohen kann helfen.
+*   Der Wochenendtrick  
+    Gefangene sollen nicht am Wochenende entlassen werden (§ 16 StVollzG). Ihr dürft aber auch nicht länger als verurteilt im Knast festgehalten werden. Sonst könntet ihr den Knast ja anzeigen/verklagen. Wenn wir also jetzt unseren Haftantritt so legen, dass wir am Sonntag entlassen werden müssten, kann das zu einer Entlassung am Freitag führen. Und wir sind zwei Tage früher draußen. Wichtig dabei ist, dass es gesetzlich aber auch möglich ist euch am Wochenende zu entlassen und das auch schon gemacht wurde. Knäste sind aber zum Teil gar nicht darauf ausgelegt, Gefangene am Wochenende zu entlassen. Die dafür benötigten Beamten sind schlichtweg nicht da und eine Entlassung damit nicht möglich. In diesem Fall ist es rein organisatorisch notwendig, euch frühzeitig zu entlassen.  
+    Das ganze wissen die Betreiber von Haftanstalten natürlich auch und berücksichtigen das auch bei eurem Haftantrittstermin (der Termin, an dem ihr von euch aus am Gefängnis erscheinen sollt). So lange ihr aber vor einem Gefängnis steht, das sachlich für euch zuständig ist, müssen die euch aufnehmen (§ 23 StVollstrO). Sachlich zuständig ist unter anderem das Gefängnis, das in eurem Haftantrittsschreiben steht. Ob die euch verspätet aufnehmen oder auf die eigenen Regeln scheißen ist natürlich stark vom jeweiligem Knast abhängig.  
+    Wenn der Knast jetzt aber froh ist, dass wir überhaupt mal aufkreuzen (wenn wir z.B. schon durch einen offenen Haftbefehl gesucht werden) sind die Chancen sehr gut in den Knast reinzukommen, obwohl eins die letzten beiden Tage unter Umständen nicht absitzen kann. Übrigens wird die Haftdauer unter 7 Tagen auf die Stunden genau und über 7 Tagen auf den Tag genau berechnet (§ 37 StVollstrO).
+
+[zurück](3-2-1-tagessaetze-abarbeiten-2.md)
+
+[weiter](4-emotionale-belastung-im-knast-2.md)

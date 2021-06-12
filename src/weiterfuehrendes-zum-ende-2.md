@@ -1,0 +1,12 @@
+# Weiterführendes zum Ende
+
+
+
+[//]: # (Weiterführendes-zum-Ende)
+[//]: # (files/2019/05/Weiterführendes-zum-Ende.png)
+  
+Beim Schreiben wurde uns immer wieder deutlich, wo die Grenzen für diesen Reader sind und das wir nicht für alle Eventualitäten vorsorgen und hier Infos rein packen können. Das Thema Geldforderungen entpuppte sich dann doch als sehr umfangreich. Auch haben wir beim Schreiben des öfteren festgestellt, dass unsere juristische Einschätzung nicht so ganz mit den Gesetzeskommentaren übereinstimmte. Auch wenn wir uns viel Mühe gegeben haben, können wir nicht ausschließen, dass sich Detailfehler eingeschlichen haben. Aus diesen Gründen haben wir euch, wann immer es uns möglich war, die passenden Gesetzesstellen in Klammern dazu geschrieben. Wenn ihr also mehr zu einem Thema wissen wollt, empfehlen wir definitiv direkt die Gesetze und deren Kommentierung (juristische Auslegung und Interpretation der Gesetze) zu lesen. Die Gesetze finden sich eigentlich alle im Internet. Leider nützen die Gesetze ohne die dazugehörende Kommentierung oft nicht besonders viel. Die Kommentare könnt ihr in Uni-Bibliotheken oder auch mal in Juristischen-Stadtbibliotheken einsehen. Zu wichtigeren Gesetzen gibt es auch schon mal mehrere verschiedene Kommentare. Macht euch also einfach selbst ein Bild von der Gesetzeslage. Auf irgendwelche scheinbar kompetenten Leute im Internet verlassen ist definitiv nicht empfehlenswert. Und noch ein Satz zu Gesetzen: Sinn dieser Gesetze ist nicht ein harmonisches solidarisches Miteinander zu ermöglichen. Sinn ist es, die Machtstrukturen, wie sie vorliegen zu festigen. Wenn den Herrschenden Ihre eigenen Regeln ungemütlich werden (in etwa weil wir das Spiel besser spielen als sie selbst) kommt es regelmäßig vor, dass sich über Gesetze schlichtweg hinweggesetzt wird. Damit solltet Ihr rechnen und das einkalkulieren. Es gibt keine Gleichheit vor dem Gesetz. Richterinnen können Gesetze brechen und sich dabei erwischen lassen, wir können sie zwar auch brechen, es ist aber meistens angenehmer sich nicht dabei erwischen zu lassen 😉
+
+[zurück](4-emotionale-belastung-im-knast-2.md)
+
+[weiter](gesetzesverzeichnis-2.md)
