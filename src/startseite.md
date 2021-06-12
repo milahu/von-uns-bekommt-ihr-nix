@@ -1,10 +1,6 @@
-# Startseite
+# Von uns bekommt ihr nix!
 
-
-
-[//]: # (Von_uns_bekommt_Ihr_nix_Schriftzug)
-[//]: # (files/2019/05/Von_uns_bekommt_Ihr_nix_Schriftzug.png)
-
+Wie wir es schaffen nicht zahlen zu müssen
 
 [online lesen](zum-sprachgebrauch-in-diesem-reader-2.md)
 
