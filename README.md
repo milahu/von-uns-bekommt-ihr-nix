@@ -1,4 +1,6 @@
-# von uns bekommt ihr nix
+# Von uns bekommt ihr nix!
+
+Wie wir es schaffen nicht zahlen zu müssen
 
 [startseite](src/startseite.md)
 
