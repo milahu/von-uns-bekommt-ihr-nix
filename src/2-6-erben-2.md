@@ -1,9 +1,6 @@
 # 2.6. Erben
 
-
-
-[//]: # (2.6.-Erben)
-[//]: # (files/2019/05/2.6.-Erben.png)
+<!-- 2.6.-Erben.png -->
   
 Jetzt kann es natürlich auch passieren, dass Menschen sterben und diese Menschen euch etwas Gutes tun wollen, indem sie euch etwas vererben. Wenn ihr etwas erbt, seid ihr natürlich Eigentümerin dieser Sache und damit kann euch das auch weggenommen werden um eure Schulden zu tilgen. Da wir aber keinen Bock haben, unsere Schulden zu tilgen, ist das eher doof. Am besten ist es natürlich zu vermeiden, dass eins direkt erbt. Je nach persönlicher Situation lassen sich da sicherlich individuelle Lösungen finden. Hier nur ein paar Denkanstöße:
 

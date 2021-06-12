@@ -1,9 +1,6 @@
 # 2.4.4. Die Alltagsorganisation
 
-
-
-[//]: # (2.4.4.-Die-Alltagsorganisation)
-[//]: # (files/2019/05/2.4.4.-Die-Alltagsorganisation.png)
+<!-- 2.4.4.-Die-Alltagsorganisation.png -->
   
 Vorweg: Es gibt einen Unterschied zwischen Eigentum und Besitz. Eigentum ist ein Begriff der Eigentümerinnen dazu ermächtigt über das Eigentum zu entscheiden (§ 903 BGB). Also etwas gehört irgendwem. Besitz dagegen ist etwas in der Hand zu haben / zu benutzen (§ 854 BGB). Nur weil wir etwas besitzen (also in der Hand haben oder es regelmäßig benutzen) heißt das noch lange nicht, dass wir auch Eigentümer dieser Sachen sind (Beck Online Grosskommentar § 903 BGB Rdnr. 215). Schlau ist also, für alle teuren und damit pfändbaren Gegenstände, die wir so besitzen eine Eigentümerin zu haben die sie uns zum Besitzen zur Verfügung stellt.  
 Jaja, wir wissen: Diese Eigentums- & Besitzsache ist total bescheuert. Aber hey, wir haben uns das nicht ausgedacht. Konkret gibt es außer dem Bedürfnis nach Macht ziemlich wenig Gründe Eigentümer von etwas zu sein. So bald etwas unser Eigentum ist, kann es uns weggenommen werden. Wenn wir Sachen aber lediglich besitzen, können wir die auch die ganze Zeit nutzen, ohne dass sie uns von Gerichtsvollzieherinnen so leicht weggenommen werden können.  

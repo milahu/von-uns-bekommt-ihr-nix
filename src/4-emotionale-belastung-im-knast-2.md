@@ -1,9 +1,6 @@
 # 4\. Emotionale Belastung im Knast
 
-
-
-[//]: # (4.-Emotionale-Belastung-im-Knast)
-[//]: # (files/2019/05/4.-Emotionale-Belastung-im-Knast.png)
+<!-- 4.-Emotionale-Belastung-im-Knast.png -->
   
 Vorbemerkung: Zu Knast kann es hier keine umfassende Info geben, dazu finden sich an anderer Stelle umfassende Ratgeber. Folgender Text soll dennoch sensibilisieren für die mögliche emotionale Belastung durch einen Knastaufenthalt. Bedenkt jedoch auch: Auch das Akzeptieren und Bezahlen einer Strafe kann eine erhebliche emotionale Belastung darstellen und sollte nicht unterschätzt werden – Strafe bleibt Strafe.  
 Im Knast wird dir die Kontrolle über Dein eigenes Leben nahezu vollständig genommen. Du wirst in allen Bedürfnissen eingeschränkt und abhängig gemacht von der Entscheidung anderer. Alle Annehmlichkeiten des Lebens werden entzogen oder reglementiert. Der Austausch unter Gefangenen und nach Außen ist durch die Bedingungen der Knäste stark erschwert. In vielem sind die Gefangen schlicht von der Willkür „ihrer“ Wärterinnen abhängig.  

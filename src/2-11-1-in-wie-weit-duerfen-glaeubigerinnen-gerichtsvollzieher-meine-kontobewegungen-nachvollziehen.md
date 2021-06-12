@@ -1,9 +1,6 @@
 # 2.11.1. In wie weit dürfen Gläubigerinnen/Gerichtsvollzieher meine Kontobewegungen nachvollziehen?
 
-
-
-[//]: # (2.11.1.-In-wie-weit-dürfen-Gläubigerinnen-Gerichtsvollzieher-meine)
-[//]: # (files/2019/05/2.11.1.-In-wie-weit-dürfen-Gläubigerinnen-Gerichtsvollzieher-meine.png)
+<!-- 2.11.1.-In-wie-weit-dürfen-Gläubigerinnen-Gerichtsvollzieher-meine.png -->
   
 Es gäbe theoretisch zwei Möglichkeiten eure Kontobewegungen nachzuvollziehen.
 

@@ -1,9 +1,6 @@
 # 2.10. Der Weg aus den Schulden
 
-
-
-[//]: # (2.10.-Der-Weg-aus-den-Schulden)
-[//]: # (files/2019/05/2.10.-Der-Weg-aus-den-Schulden.png)
+<!-- 2.10.-Der-Weg-aus-den-Schulden.png -->
   
 Wer irgendwann doch wieder ins (normal-) bürgerliche Leben mit allen unmittelbar staatlich garantierten Herrschaftsansprüchen zurück möchte, hat da mehrere Möglichkeiten. Hier wird nur ganz kurz auf diese eingegangen, bei Bedarf sollte unbedingt mehr recherchiert werden und z.B. eine Schuldnerberatung aufgesucht werden. Der Reader hat nicht den Anspruch, eine der vielen gängigen Schuldnerinnenberatungsbroschüren zu werden und ehrlich gesagt haben wir uns auch nicht ausführlich genug mit der entsprechenden Materie beschäftigt, um hier umfassend beraten zu können. Ein paar Sätze zum Grobüberblick werden wir hier trotzdem verlieren.
 

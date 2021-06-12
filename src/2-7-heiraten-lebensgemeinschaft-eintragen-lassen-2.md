@@ -1,9 +1,6 @@
 # 2.7. Heiraten / Lebensgemeinschaft eintragen lassen
 
-
-
-[//]: # (2.7.-Heiraten-Lebensgemeinschaft-eintragen-lassen)
-[//]: # (files/2019/05/2.7.-Heiraten-Lebensgemeinschaft-eintragen-lassen.png)
+<!-- 2.7.-Heiraten-Lebensgemeinschaft-eintragen-lassen.png -->
   
 Vorweg: Es gibt Gründe zu heiraten / sich eine Lebensgemeinschaft eintragen zu lassen, die nichts mit christlich aufgeladenem ewigem Treueversprechen zu tun haben (beispielsweise verbilligte Familienkrankenversicherung oder asylrechtliche Vorteile). Aber was ist, wenn eine Person davon eine Vermögensauskunft hat?  
 Zunächst erscheint es uns sinnvoll, eine Gütertrennung (§ 1414 BGB/ § 7 LPartG) einzugehen. Dadurch bestehen weiterhin 2 getrennte Vermögen für die eins auch getrennt haftbar ist. Heißt konkret: Schulden von Mensch 1 können nicht bei Mensch 2 gepfändet werden (BeckOK BGB § 1414 Rn. 9 )  

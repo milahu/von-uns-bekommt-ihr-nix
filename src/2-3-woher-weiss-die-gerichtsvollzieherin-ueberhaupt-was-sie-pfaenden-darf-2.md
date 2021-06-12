@@ -1,9 +1,6 @@
 # 2.3. Woher weiß die Gerichtsvollzieherin überhaupt, was sie pfänden darf?
 
-
-
-[//]: # (2.3.-Woher-weiß-die-Gerichtsvollzieherin-überhaupt-was-sie-pfänden-darf)
-[//]: # (files/2019/05/2.3.-Woher-weiß-die-Gerichtsvollzieherin-überhaupt-was-sie-pfänden-darf.png)
+<!-- 2.3.-Woher-weiß-die-Gerichtsvollzieherin-überhaupt-was-sie-pfänden-darf.png -->
   
 Wenn die Gerichtsvollzieherin also bei euch vor der Tür steht, fragt sie euch ob ihr die Forderung begleichen könnt. Natürlich können wir das nicht, denn wir haben uns ja dagegen entschieden zu bezahlen.  
 Sie schaut dann, ob sie bei euch irgendwelche Sachen zum pfänden findet. Ihr müsst sie zwar nicht reinlassen, dann kann sie sich aber mit Hilfe der Polizei Zugang verschaffen. Mehr dazu in [„2.5. Spass mit Gerichtsvollzieherinnen“](2-5-exkurs-spass-mit-gerichtsvollzieherinnen-2.md) .

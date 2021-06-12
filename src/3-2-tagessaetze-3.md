@@ -1,9 +1,6 @@
 # 3.2. Tagessätze
 
-
-
-[//]: # (3.2.-Tagessätze)
-[//]: # (files/2019/05/3.2.-Tagessätze.png)
+<!-- 3.2.-Tagessätze.png -->
   
 Alles was wir bisher zu Bußgeldern geschrieben haben, gilt so nicht für Straftaten. Hier ist alles nochmal ein bisschen anders.  
 Also: Wenn ihr für eine Straftat verurteilt werdet, bekommt ihr Tagessätze aufgebrummt. Beispielsweise 20 Tagessätze zu je 40€. Also insgesamt 800€ (20 x 40€). Die Anzahl der Tagessätze (in unserem Beispiel 20) ist die Strafe. Die Höhe der Tagessätze (in unserem Beispiel 40€) richtet sich nach eurem monatlichen Einkommen (§ 40 StGB). Das ist dazu da, um zu suggerieren, dass Leute einkommensunabhängig vor Gericht gleich behandelt werden. Falls ihr dem Gericht keine Angaben zu eurem Einkommen macht, wird euer Einkommen geschätzt. Die ungefähre Formel für Tagessätze:  

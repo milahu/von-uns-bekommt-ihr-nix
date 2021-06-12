@@ -1,9 +1,6 @@
 # 2.4.3. Die Kontenorganisation
 
-
-
-[//]: # (2.4.3.-Die-Kontenorganisation)
-[//]: # (files/2019/05/2.4.3.-Die-Kontenorganisation.png)
+<!-- 2.4.3.-Die-Kontenorganisation.png -->
   
 Vorweg, es macht Sinn sein komplettes Geld auf ein Konto zusammenzulegen und dieses Konto zu einem Pfändungsschutzkonto umzuwandeln. Warum? Erklären wir euch.  
 Alles, was ihr so an Geld auf irgendeine Weise bei Banken angelegt habt (egal ob Girokonto, Bausparvertrag, Aktien, Riester Sparen und was es noch so alles gibt) wird gepfändet. Und zwar bis auf 0 (§ 833 a ZPO). Denen ist scheiß egal, ob ihr dann noch Geld habt, Klopapier zu kaufen oder nicht.  

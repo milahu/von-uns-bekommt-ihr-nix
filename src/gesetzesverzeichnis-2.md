@@ -1,9 +1,6 @@
 # Gesetzesverzeichnis
 
-
-
-[//]: # (Gesetzesverzeichnis)
-[//]: # (files/2019/05/Gesetzesverzeichnis.png)
+<!-- Gesetzesverzeichnis.png -->
   
 Hier eine Liste der Gesetze auf die wir uns in diesem Reader bezogen haben. Die Gesetze sind nicht immer sinnvoll geordnet und manchmal findet eins auch Infos an Stellen die einfach komplett unlogisch sind. Meistens solltet ihr euch anhand unsere Zitatstellen orientieren können, für alles andere viel Spaß mit dem Stichwortverzeichnis:
 

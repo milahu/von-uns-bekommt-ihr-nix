@@ -1,9 +1,6 @@
 # 2.2. Der organisierte Bankrott
 
-
-
-[//]: # (2.2.-Der-organisierte-Bankrott)
-[//]: # (files/2019/05/2.2.-Der-organisierte-Bankrott.png)
+<!-- 2.2.-Der-organisierte-Bankrott.png -->
   
 Das hört sich jetzt total schlimm an, ist es aber nicht. Faktisch leben viele politisch Aktive eh einen Lebensstil, bei dem höchstens ein paar Formalien geändert werden müssen, damit euch nichts weggenommen werden kann. Aber wie viel ist zu viel? Hier eine kleine Kurzübersicht:  
 

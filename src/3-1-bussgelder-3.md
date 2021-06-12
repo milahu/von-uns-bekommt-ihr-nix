@@ -1,9 +1,6 @@
 # 3.1. Bußgelder
 
-
-
-[//]: # (3.1.-Bußgelder)
-[//]: # (files/2019/05/3.1.-Bußgelder.png)
+<!-- 3.1.-Bußgelder.png -->
   
 Bußgelder sind Gelder, die ihr wegen Ordnungswidrigkeiten aufgebrummt bekommt. Wenn ihr diese Bußgelder nicht bezahlen könnt oder wollt gibt es das Mittel, euch durch Erzwingungshaft (§ 96 OWiG) dazu zu bewegen, doch zu zahlen. Das Bußgeld wird durch die Haft nicht beglichen. Nachdem ihr aber einmal wegen einem Bußgeld in Erzwingungshaft gesteckt wurdet, kann wegen des gleichen Bußgeldes keine zweite Erzwingungshaft mehr gegen euch verhängt werden (§ 96 (3) OWiG). Ergo haben die nach dem Absitzen einer solchen Haft fast keine Möglichkeit mehr, euch dazu zu bewegen, das Bußgeld zu zahlen. Faktisch kann euch das Bußgeld also spätestens nach der Haft total egal sein.  
 Aber der Reihe nach:  

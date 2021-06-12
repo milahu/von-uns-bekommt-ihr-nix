@@ -1,9 +1,6 @@
 # 2.4.5. Ein Leben im Bankrott
 
-
-
-[//]: # (2.4.5.-Ein-Leben-im-Bankrott)
-[//]: # (files/2019/05/2.4.5.-Ein-Leben-im-Bankrott.png)
+<!-- 2.4.5.-Ein-Leben-im-Bankrott.png -->
   
 So, du hast dich also entsprechend auf deine Vermögensauskunft vorbereitet. Dein ganzes Geld ging für den Schokoriegel von Alex Solidarisch flöten und seitdem hast du auch keine bedeutenden Geldsummen mehr auf deinem Konto gehabt. Wirklich gehören tut dir auch nichts mehr, du bist ein richtig armer Schlucker 😉  
 Jetzt kommt die Gerichtsvollzieherin und will von dir, dass du die Vermögensauskunft ablegst. Tust du irgendwann auch.

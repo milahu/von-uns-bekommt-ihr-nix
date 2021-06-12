@@ -1,9 +1,6 @@
 # Zum Sprachgebrauch in diesem Reader
 
-
-
-[//]: # (Zum-Sprachgebrauch-in-diesem-Reader)
-[//]: # (files/2019/05/Zum-Sprachgebrauch-in-diesem-Reader.png)
+<!-- Zum-Sprachgebrauch-in-diesem-Reader.png -->
   
 Wir haben uns in diesem Reader dazu entschieden, die männliche und die  
 weibliche Form von Wörtern abwechselnd zu verwenden. Uns ist klar, dass das  

@@ -1,9 +1,6 @@
 # 2\. Der Umgang mit zivilrechtlichen Forderungen
 
-
-
-[//]: # (2.-Der-Umgang-mit-zivilrechtlichen-Forderungen)
-[//]: # (files/2019/05/2.-Der-Umgang-mit-zivilrechtlichen-Forderungen.png)
+<!-- 2.-Der-Umgang-mit-zivilrechtlichen-Forderungen.png -->
 
 
 Zivilrechtliche Forderungen sind Forderungen von Privatpersonen, Firmen oder auch Behörden, die keine direkte Strafe darstellen. Also einfach gesagt alles, was eins so dem Begriff Rechnung unterordnen könnte. Gängige Beispiele die uns so eingefallen sind:

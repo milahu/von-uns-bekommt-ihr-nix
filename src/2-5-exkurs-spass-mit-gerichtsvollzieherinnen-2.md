@@ -1,9 +1,6 @@
 # 2.5. Exkurs: Spaß mit Gerichtsvollzieherinnen
 
-
-
-[//]: # (2.5.-Exkurs-Spaß-mit-Gerichtsvollzieherinnen)
-[//]: # (files/2019/05/2.5.-Exkurs-Spaß-mit-Gerichtsvollzieherinnen.png)
+<!-- 2.5.-Exkurs-Spaß-mit-Gerichtsvollzieherinnen.png -->
   
 Manche von uns haben es sich zu einer Art Hobby gemacht, Gerichtsvollziehern auf der Nase herum zu tanzen. Wieso den Helferinnen von Staat und Kapital das Leben unnötig erleichtern?  
 Wie oben bereits geschrieben sind Gerichtsvollzieher die staatlichen Dienstleisterinnen der Gläubiger. Entsprechend ist auch meistens die Motivation dieser Menschen (Dienst nach Vorschrift und ja nicht zu viel tun). Natürlich können wir nicht ausschließen, dass es Gerichtsvollzieherinnen gibt, die eine unglaubliche Freude daran haben, finanzschwache Menschen nieder zu machen und denen Zeugs wegzunehmen, aber kennengelernt haben wir solche Gerichtsvollzieher noch nicht. Auch sind Gerichtsvollzieherinnen ziemliche Papiertiger. Deren Vorgehen ist also recht gut abschätzbar. Meist versuchen sie euch an eurer Meldeadresse anzutreffen. Wenn sie euch nicht antreffen, werfen sie euch einen Zettel ein. Auf dem Ersten steht oft drauf, dass ihr ihnen das Geld doch einfach überweisen sollt. Auf den Nächsten stehen dann auch irgendwelche Termine an denen ihr in deren Büro etc. vorbeikommen sollt oder sie bei euch vorbeikommen. Irgendwann steht dann unter Umständen auch drauf, dass ein Haftbefehl gegen euch erwirkt wurde. Sonst passiert da nicht viel.  

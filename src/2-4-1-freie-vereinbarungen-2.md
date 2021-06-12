@@ -1,9 +1,6 @@
 # 2.4.1. Freie Vereinbarungen
 
-
-
-[//]: # (2.4.1.-Freie-Vereinbarungen)
-[//]: # (files/2019/05/2.4.1.-Freie-Vereinbarungen.png)
+<!-- 2.4.1.-Freie-Vereinbarungen.png -->
   
 Es gibt ja durchaus Menschen für deren Lebensführung es nicht hinderlich ist, Eigentümer von Geld zu sein, da z.B. eh keine politischen Aktionen gemacht werden. Wenn diese Person zudem keine staatlichen Hilfen in Anspruch nehmen wird (beispielsweise ALG 1 & 2, Wohngeld, Sozialhilfe) ist es völlig egal, wenn sie ein Konto mehr hat auf dem Geld rumliegt.  
 Nennen wir eine solche Person Alex Solidarisch. Wir haben also den Verdacht, in geraumer Zukunft Rechnungen nicht mehr bezahlen zu wollen, besitzen aber derzeit noch etwas mehr Geld als wir dürften. Wir vertrauen Alex Solidarisch und erklären die Situation. Jetzt ist eine Möglichkeit, dass wir Alex für unser komplettes restliches Geld einen Schokoriegel abkaufen. Weil Alex das Geld natürlich nicht braucht, eröffnet Alex ein Konto auf dem das Schokoriegelgeld angelegt wird.  

@@ -54,9 +54,9 @@ Orf-1-Klein.png
   // files
   content = content.replace(/]\(files\/\d+\/\d+\/(Von_uns_bekommt_ihr_nix\.pdf)\)/g, '](files/$1)'); // startseite.md
   var s = '[PDF runter laden](files/Von_uns_bekommt_ihr_nix.pdf)';
-  content = content.replace(s, `[//]: # ( ${s} )`); // startseite.md
+  content = content.replace(s, `<!--\n${s}\n-->`); // startseite.md
 
-  content = content.replace(/!\[\]\((files\/\d+\/\d+\/([^ \/]+).png)\)/g, '\n\n[//]: # ($2)\n[//]: # ($1)\n');
+  content = content.replace(/!\[\]\(files\/\d+\/\d+\/([^ \/]+.png)\)/g, '<!-- $1 -->\n');
 
   //const slug = (page.slug == 'startseite') ? 'README' : page.slug;
   const slug = page.slug;

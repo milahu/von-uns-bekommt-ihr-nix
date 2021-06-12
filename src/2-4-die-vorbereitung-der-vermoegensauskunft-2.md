@@ -1,9 +1,6 @@
 # 2.4. Die Vorbereitung der Vermögens­auskunft
 
-
-
-[//]: # (2.4.-Die-Vorbereitung-der-Vermögens­auskunft)
-[//]: # (files/2019/05/2.4.-Die-Vorbereitung-der-Vermögens­auskunft.png)
+<!-- 2.4.-Die-Vorbereitung-der-Vermögens­auskunft.png -->
   
 Damit bei der Vermögensauskunft möglichst herauskommt, dass bei euch nichts zu holen ist und eure Gläubigerinnen (die, die von euch Geld wollen) in die Röhre gucken, macht es Sinn vorbereitet zu sein. Heißt, sich so zu organisieren, dass eins nicht mehr Eigentümer von Sachen ist, die einem weggenommen würden. Dazu gibt es verschiedene Möglichkeiten:
 

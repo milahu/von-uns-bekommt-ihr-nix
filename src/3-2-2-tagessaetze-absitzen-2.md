@@ -1,9 +1,6 @@
 # 3.2.2. Tagessätze absitzen
 
-
-
-[//]: # (3.2.2.-Tagessätze-absitzen)
-[//]: # (files/2019/05/3.2.2.-Tagessätze-absitzen.png)
+<!-- 3.2.2.-Tagessätze-absitzen.png -->
   
 Wenn ihr eure Tagessätze nicht zahlt oder abarbeitet und eine Pfändung der Strafe bei euch als sinnlos erachtet wird oder nicht geklappt hat, kommt es irgendwann dazu, dass ihr ein Haftantrittsschreiben bekommt (§ 27 StVollstrO). Da steht dann drinnen, wann ihr Haftantritt habt und wo und noch n paar Infos zum Knast. Wenn ihr während der Haftantrittszeit nicht dort aufgekreuzt seid, wird ein offener Haftbefehl gegen euch erlassen (§ 33 StVollstrO). Das führt dazu, dass die Bullen bei eurer Meldeadresse vorbei schauen und versuchen werden euch zu verhaften. Auch werden die euch bei Personalienkontrollen etc. gleich mitnehmen wollen. Für die Dauer der Haftstrafe gilt: Anzahl der Tagessätze = Anzahl der Tage im Knast (§ 43 StGB). Dabei handelt es sich um Ersatzhaft. Heißt, nachdem ihr die Tagessätze abgesessen habt, gelten sie als beglichen.  
 Ihr könnt aber auch nur einen Teil der Tagessätze bezahlen (Münchner Kommentar StGB § 43 Rn. 13 ). In unserem Beispiel mit den 20 Tagessätzen à 40€ könnt ihr beispielsweise 10 Tage in den Knast gehen und euch dann entscheiden, dass ihr da keinen Bock mehr drauf habt und die restlichen 400€ (10 Tagessätze) bezahlen.  

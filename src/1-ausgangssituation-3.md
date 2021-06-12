@@ -1,9 +1,6 @@
 # 1\. Ausgangssituation
 
-
-
-[//]: # (1.-Ausgangssituation)
-[//]: # (files/2019/05/1.-Ausgangssituation.png)
+<!-- 1.-Ausgangssituation.png -->
   
 _„Ich hab da so nen Brief. Da steht drinnen, ich soll Geld zahlen“_  
 Um‘s erst mal etwas zu verkomplizieren: Geld zahlen müssen ist nicht gleich Geld zahlen müssen.  

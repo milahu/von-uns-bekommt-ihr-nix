@@ -1,9 +1,6 @@
 # 2.9. Gesamtschuldnerschaft
 
-
-
-[//]: # (2.9.-Gesamtschuldnerschaft)
-[//]: # (files/2019/05/2.9.-Gesamtschuldnerschaft.png)
+<!-- 2.9.-Gesamtschuldnerschaft.png -->
   
 Tolles Wort. Worum geht‘s? Wenn ihr zum Beispiel gemeinsam etwas kaputt macht und der Geschädigte danach den Schaden von euch ersetzt haben will, sind alle Beteiligten als sogenannte Gesamtschuldner für den entstanden Schaden haftbar (§§ 421, 830 & 840 BGB). Das heißt, dass die Gläubigerin bei allen Beteiligten den insgesamt entstandenen Schaden einfordern kann (§ 421 BGB). Wenn also eine Aktionsgruppe aus 5 Leuten gemeinsam einen Kohlebagger blockiert, sind alle 5 zur Begleichung des Schadens verpflichtet. Das ist ein Problem, wenn nur 3 der Beteiligten eine Vermögensauskunft abgelegt haben Die gesamten Schulden werden dann einfach von den 2 Personen ohne Vermögensauskunft eingetrieben, was natürlich auch Kackdreck ist.  
 Uns ist an dieser Stelle noch wichtig zu betonen, dass es im Vergleich zur strafrechtlichen Verfolgung durch Bullen/ Staatsanwaltschaft sehr selten ist dass geschädigte Firmen/ Institutionen versuchen den Schaden zivilrechtlich einzufordern. Es kommt aber definitiv auch manchmal vor und meist geht es dann auch gleich um sehr hohe Forderungen.  

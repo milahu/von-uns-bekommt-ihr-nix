@@ -1,9 +1,6 @@
 # 2.11. Detailrumgekacke
 
-
-
-[//]: # (2.11.-Detailrumgekacke)
-[//]: # (files/2019/05/2.11.-Detailrumgekacke.png)
+<!-- 2.11.-Detailrumgekacke.png -->
   
 Aus verschiedenen Gründen haben sich Menschen mit sehr speziellen Details zum Thema Vermögensauskunft auseinandergesetzt. Diese Details sind zwar nicht für alle interessant, aber wir wollen euch dieses Wissen nicht gänzlich vorenthalten. Daher hier das Kapitel mit Fragen, die sicherlich nicht für alle Leser wichtig sind.
 

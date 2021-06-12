@@ -1,9 +1,6 @@
 # Vorwort
 
-
-
-[//]: # (Vorwort)
-[//]: # (files/2019/05/Vorwort.png)
+<!-- Vorwort.png -->
   
 Wenn eins längere Zeit politisch aktiv ist und entsprechend auch mit dem  
 Staat oder politischen Gegnern aneinander gerät, lassen sich Geldforderun-  

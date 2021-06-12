@@ -1,9 +1,6 @@
 # 3\. Geldstrafen und Bußgelder
 
-
-
-[//]: # (3.-Geldstrafen-und-Bußgelder)
-[//]: # (files/2019/05/3.-Geldstrafen-und-Bußgelder.png)
+<!-- 3.-Geldstrafen-und-Bußgelder.png -->
   
 Neben zivilrechtlichen Geldforderungen gibt es jetzt aber auch Strafen, die aus Geldforderungen bestehen. Natürlich kann Mensch die auch einfach bezahlen, aber auch hier gibt es Gründe das nicht zu tun:
 
